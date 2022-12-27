@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.3] 2022-12-27
+### Changes
+
+- Updated Sidebar
+  - Filter links based on authenticated user (ADMIN, or non-admin)
+
 ## [1.0.2] 2022-12-27
 ### Changes
 
