@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.2] 2022-12-27
+### Changes
+
+- Updated Navigation Bar
+  - Filter based by authentication state
+
 ## [1.0.1] 2022-12-27
 ### Changes
 
