@@ -111,7 +111,21 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 
 ## Screenshots
 
-@todo
+![Theme Material Dashboard PRO - Main (Dark-Mode active), crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695422-7863697f-e6c5-4b08-b395-422074e399df.jpg)
+
+<br />
+
+> [Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro) - `Calender` Page
+
+![Theme Material Dashboard PRO - Calender Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695529-f4cea8ee-68d9-4658-bb54-110ff530c8da.jpg)
+
+<br />
+
+> [Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro) - `Automotive` Page
+
+![Theme Material Dashboard PRO - Automotive Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695692-e681b3c8-fca8-4ebf-8803-2795bcd8f7d1.jpg)
+
+<br />
 
 ---
 **[Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
