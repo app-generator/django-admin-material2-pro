@@ -1,18 +1,18 @@
-# **[Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro)**
+# **[Django Admin Material2 PRO](https://appseed.us/product/material-dashboard2-pro/django/)**
 
 **Django** starter styled with **Django Admin Material PRO**, a premium `Boostrap 5` design from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > 👉 **NOTE**: This product `requires a License` in order to access the theme:
 
-**Private REPO**: `git+https://github.com/app-generator/priv-django-admin-material-pro`
+**Private REPO**: `git+https://github.com/app-generator/priv-django-admin-material2-pro`
 
 <br />
 
 ## Features: 
 
-- **UI Kit**: Material Dashboard BS5 PRO `v3.0.5` by Creative-Tim
-- [Django Material PRO](https://github.com/app-generator/django-material-dashboard-pro) - `sample project`
+- **UI Kit**: Material Dashboard2 BS5 PRO `v3.0.5` by Creative-Tim
+- [Django Material2 PRO](https://appseed.us/product/material-dashboard2-pro/django/) - `sample project`
 - **Sections Covered**: 
   - `Admin Section`, reserved for `superusers`
   - `All pages` managed by `Django.contrib.AUTH`
@@ -43,17 +43,17 @@ Material Dashboard 2 PRO makes use of light, surface and movement. The general l
 > **Install the package** via `PIP` 
 
 ```bash
-$ pip install git+https://github.com/app-generator/priv-django-admin-material-pro.git
+$ pip install git+https://github.com/app-generator/priv-django-admin-material2-pro.git
 ```
 
 <br />
 
-> Add `admin_material_pro` application to the `INSTALLED_APPS` setting of your Django project `settings.py` file (note it should be before `django.contrib.admin`):
+> Add `admin_material2_pro` application to the `INSTALLED_APPS` setting of your Django project `settings.py` file (note it should be before `django.contrib.admin`):
 
 ```python
     INSTALLED_APPS = (
         ...
-        'admin_material_pro.apps.AdminMaterialProConfig',
+        'admin_material2_pro.apps.AdminMaterial2ProConfig',
         'django.contrib.admin',
     )
 ```
@@ -70,14 +70,14 @@ $ pip install git+https://github.com/app-generator/priv-django-admin-material-pr
 
 <br />
 
-> Add `admin_material_pro` urls in your Django Project `urls.py` file
+> Add `admin_material2_pro` urls in your Django Project `urls.py` file
 
 ```python
     from django.urls import path, include
 
     urlpatterns = [
         ...
-        path('', include('admin_material_pro.urls')),
+        path('', include('admin_material2_pro.urls')),
     ]
 ```
 
@@ -128,4 +128,4 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 <br />
 
 ---
-**[Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
+**[Django Admin Material2 PRO](https://appseed.us/product/material-dashboard2-pro/django/)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**

@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [1.0.6] 2023-01-07
+### Changes
+
+- Fix Paths (inside lib)
+
+## [1.0.5] 2023-01-07
+### Changes
+
+- Rename `Material` -> `Material2`
+
 ## [1.0.4] 2022-12-27
 ### Changes
 
